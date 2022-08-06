@@ -648,7 +648,11 @@ header .navbar.nav-toggle{
 .table{
 font-size:1.7rem;
 	}
-
+.about .content h1{
+font-size: 2.5rem;	
+}
+.about .content h3{
+font-size: 2.2rem;	
 }
 @media(max-width:380px){
     .oneback{
