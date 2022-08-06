@@ -255,6 +255,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .oneback{
     background: url(back2.jpg) no-repeat;
     background-size: cover;
+	width:100%;
     background-position: center;
 }
 
@@ -279,7 +280,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 6%;
 }
 .table {
-	width: 100%;
+	width: 90%;
 	margin-bottom: 20px;
 	border: 1px solid #dddddd;
 	border-collapse: collapse; 
@@ -643,5 +644,11 @@ header .navbar.nav-toggle{
     color:#333;
 }
 
-
+}
+@media(max-width:380px){
+    .oneback{
+        background: url(back2.jpg) no-repeat;
+        width: 100%;
+        background-size: cover;
+        background-position: center;}
 }
