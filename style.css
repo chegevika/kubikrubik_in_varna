@@ -25,6 +25,7 @@ html{
   
 section{
     min-height: 100vh;
+	max-width:100vw;
   padding-left: 7%;
     padding-top: 25rem;
     padding-bottom: 0;
@@ -652,4 +653,8 @@ header .navbar.nav-toggle{
         width: 100%;
         background-size: cover;
         background-position: center;}
+.features .box-container{
+margin-top:-8%;
+	margin-left:-5%;
+	}
 }
