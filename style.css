@@ -645,6 +645,9 @@ header .navbar.nav-toggle{
     font-size: 3rem;
     color:#333;
 }
+.table{
+font-size:1.7rem;
+	}
 
 }
 @media(max-width:380px){
