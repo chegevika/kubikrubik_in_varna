@@ -631,7 +631,9 @@ header .navbar.nav-toggle{
     .home .content h3{
             font-size: 2.2rem;
 }
-
+.features .box-container{
+    margin-top: -36%;
+}
 .features .box-container,
 .features .box-container:first-child{
     text-align: center;
