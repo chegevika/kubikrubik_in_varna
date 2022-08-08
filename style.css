@@ -621,7 +621,7 @@ header .navbar.nav-toggle{
 
 @media(max-width:450px){
     header .navbar a{
-    font-size: 1.5rem;
+    font-size: 1.9rem;
 }
     html{
         font-size: 50%;
@@ -649,7 +649,7 @@ header .navbar.nav-toggle{
 .table{
 font-size:1.5rem;
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-margin-right:5%;
+margin-right:4%;
 	}
 .about .content h1{
 font-size: 2.5rem;	
