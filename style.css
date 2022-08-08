@@ -655,7 +655,7 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 margin-right:4%;
 	}
 .about .content{
-    margin-top:-25%;
+    margin-top:-35%;
 }
 .about .content h1{
 font-size: 2.5rem;
@@ -664,8 +664,8 @@ font-size: 2.5rem;
 .about .content h3{
 font-size: 2.2rem;	
 }
-	.schedule{
-    margin-top: -20%;
+	.schedule .content{
+    margin-top: -35%;
 }
 .schedule .content h3{
 	font-size: 2.5rem;
