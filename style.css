@@ -657,8 +657,23 @@ font-size: 2.5rem;
 font-size: 2.2rem;	
 }
 .schedule .content h3{
-	font-size: 2.5rem;}
-
+	font-size: 2.5rem;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.heading{
+font-size: 2.5rem;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	}
+.pricing .box-container .box h3{
+    font-size: 3rem;
+    color:#333;
+}
+.pricing .box-container .box .price{
+    font-size: 2.8rem;
+    color:#a00e01;
+}
+.pricing .box-container .box .price span{
+    font-size: 3.8rem;
+}
 
 }
 @media(max-width:380px){
